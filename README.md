@@ -10,7 +10,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do-dong-park&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=do-dong-park&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=do-dong-park)](https://git.io/streak-stats)
+
 
 
 
