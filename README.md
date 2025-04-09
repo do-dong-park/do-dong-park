@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Dongkyu Park
 
-<!--
-**do-dong-park/do-dong-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimz1121&show_icons=true&theme=tokyonight&hide_rank=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimz1121&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kimz1121&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kimz1121&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+
