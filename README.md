@@ -12,7 +12,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=do-dong-park&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=do-dong-park&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
